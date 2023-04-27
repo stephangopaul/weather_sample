@@ -1,0 +1,21 @@
+{
+  "Code": 1,
+  "Error": null,
+  "Data": [
+    {
+      "Id": 136863,
+      "Date": "2022-07-16T00:00:00",
+      "IntervalId": 1,
+      "MinTemperature": 0,
+      "MaxTemperature": 26,
+      "Humidity": 0,
+      "WeatherId": 24,
+      "Name": "Partly Cloudy with Showers",
+      "IconUrl": "ic_partly_cloudy_with_showers_day",
+      "Locality": "Rodrigues",
+      "Latitude": -19.679315,
+      "Longitude": 63.427525,
+      "Description": "ic_partly_cloudy_with_showers"
+    }
+  ]
+}
