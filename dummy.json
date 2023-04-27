@@ -16,6 +16,21 @@
       "Latitude": -19.679315,
       "Longitude": 63.427525,
       "Description": "ic_partly_cloudy_with_showers"
+    },
+    {
+      "Id": 136899,
+      "Date": "2022-07-16T00:00:00",
+      "IntervalId": 1,
+      "MinTemperature": 0,
+      "MaxTemperature": 0,
+      "Humidity": 0,
+      "WeatherId": 4,
+      "Name": "Cloudy with Showers",
+      "IconUrl": "ic_rain",
+      "Locality": "Curepipe",
+      "Latitude": -20.317087,
+      "Longitude": 57.526529,
+      "Description": "ic_cloudy_with_showers"
     }
   ]
 }
